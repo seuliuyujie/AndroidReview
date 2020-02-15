@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">登机牌</string>
+    <string name="passenger_label">乘客姓名</string>
+    <string name="passenger_name">詹姆斯 先生</string>
+    <string name="origin_code">旧金山</string>
+    <string name="destination_code">洛杉矶</string>
+    <string name="flight_code">UDA 2465</string>
+    <string name="boarding_time_label">登机时间</string>
+    <string name="boarding_time">02:10 上午</string>
+    <string name="departure_time_label">起飞时间</string>
+    <string name="departure_time">02:40 下午</string>
+    <string name="arrival_time">12:40 上午</string>
+    <string name="arrival_time_label">到达时间</string>
+    <string name="boarding_in_time">00:15 分钟</string>
+    <string name="boarding_in_label">提前登机时间</string>
+    <string name="terminal_label">航站楼</string>
+    <string name="gate_label">登机口</string>
+    <string name="seat_label">座位号</string>
+    <string name="terminal">2</string>
+    <string name="gate">58B</string>
+    <string name="seat">24A</string>
+    <string name="countDownFormat" >%1$02d:%2$02d</string>
+    <string name="timeFormat">hh:mm a</string>
+</resources>
